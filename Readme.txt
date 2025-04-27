@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+通識課：運算思維與程式設計應用初階課程的作業
